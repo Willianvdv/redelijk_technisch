@@ -33,3 +33,7 @@ En nog 2 andere talks. Ideeen voor sprekers:
 ## LOL WORDT IS ZONDER T!!1~~ N00B
 
 Help me mee en stuur een [pull request](https://help.github.com/articles/using-pull-requests) :heart:
+
+## Question!
+
+Willian <mail@willian.io>
