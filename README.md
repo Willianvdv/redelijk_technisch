@@ -27,7 +27,7 @@ En nog 2 andere talks. Ideeen voor sprekers:
 - Locatie
 - Talks
 - Programma
-- Sponsor voor wat kratjes pile
+- Sponsor voor wat kratjes pils
 
 
 ## LOL WORDT IS ZONDER T!!1~~ N00B
