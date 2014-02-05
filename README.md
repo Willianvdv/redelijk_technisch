@@ -25,7 +25,7 @@ En nog 2 andere talks. Ideeen voor sprekers:
 
 ## Todo
 
-- Datum
+- ~~Datum~~
 - Locatie
 - Talks
 - Programma
