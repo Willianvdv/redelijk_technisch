@@ -6,7 +6,7 @@ Meeting die ik wil organiseren in Groningen met redelijk technische onderwerpen.
 
 Regelmatig op een donderdag avond een meeting waarbij mensen uit de `internet scene` bij elkaar komen. Het zou tof zijn om mensen met verschillende achtergronden (programmeertaal / functies) bijelkaar te laten komen. Ter illustratie: Ik ben zelf Rails/Django georienteerd, toch zou ik best wel wat willen weten hoe de `.net` / `Java` wereld inelkaar zit en welke hippe dingen zij gebruiken.
 
-Op een avond wil ik 4 talkers. Elk krijgt 20 minuten om over een onderwerp te praten en dit moet dus een lightning-achtige talk worden. Omdat techiek redelijk centraal staat, moet dit terug komen in de talk. Een 15 minuten durende advertentie is niet de bedoeling. Live demo: +10!
+Op een avond wil ik 4 talkers. Elk krijgt 15 minuten om over een onderwerp te praten en dit moet dus een lightning-achtige talk worden. Omdat techiek redelijk centraal staat, moet dit terug komen in de talk. Een 15 minuten durende advertentie is niet de bedoeling. Live demo: +10!
 
 ## Talks meeting 1
 
