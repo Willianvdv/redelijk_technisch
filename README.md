@@ -10,6 +10,8 @@ Op een avond wil ik 4 talkers. Elk krijgt 20 minuten om over een onderwerp te pr
 
 ## Talks meeting 1
 
+Concept datum: 13 Maart 2014
+
 CONCEPT! Talks moeten moeilijk maar toegangkelijk zijn! 
 
 - Peter Jaap Blaakmeer, Elgentos: Met HTML canvas een game bouwen.
