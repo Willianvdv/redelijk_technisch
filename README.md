@@ -15,9 +15,8 @@ Concept datum: Donderdag, 6 Maart 2014
 CONCEPT! Talks moeten moeilijk maar toegangkelijk zijn! 
 
 - Peter Jaap Blaakmeer, Elgentos: Met HTML canvas een game bouwen.
-- Tim Sluis, Studio Wolf: Design & Continuous Integration.
 
-En nog 2 andere talks. Ideeen voor sprekers:
+En nog 3 andere talks. Ideeen voor sprekers:
 - Dankzij Continuous Integration heb ik geen slapeloze nachten meer
 - Geen bugs door Integratie tests
 - Ons platform schaalt snoeihard
